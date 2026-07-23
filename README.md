@@ -6,7 +6,7 @@ This project analyzes 106,982 healthcare appointments to identify factors associ
 
 ## Tools Used
 
-- Python and pandas for data cleaning (healthcare_no_show_analysis.ipynb)
+- Python and pandas for data cleaning
 - Tableau for analysis and visualization
 - GitHub for project documentation
 
