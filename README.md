@@ -12,7 +12,7 @@ This project analyzes 106,982 healthcare appointments to identify factors associ
 
 ## Dashboard
 
-View the interactive Tableau dashboard ([PASTE-YOUR-TABLEAU-PUBLIC-LINK-HERE)
+View the interactive Tableau dashboard ([PASTE-YOUR-TABLEAU-PUBLIC-LINK-HERE)]
 (https://public.tableau.com/app/profile/buket.deded/viz/Book1_17846593709960/Dashboard1)
 
 ![Healthcare Appointment No-Show Dashboard](healthcare-dashboard.png)
